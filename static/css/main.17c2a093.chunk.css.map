@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Components/Product.css"],"names":[],"mappings":"AAAA,SACE,yBACF,CAEA,cACE,aACF","file":"main.17c2a093.chunk.css","sourcesContent":[".Product{\n  outline: 1px solid #212121;\n}\n\n.Product-name{\n  font-size: 700;\n}"]}
